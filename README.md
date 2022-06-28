@@ -1,5 +1,6 @@
 # Face Detection and Recognition
-The aim of this project is to create a computer application and train a model which will detect and recognizes the face of a human from images as well as videos and shows the output in text format on the screen.
+The aim of this project is to create a computer application and train a model which will detect and recognizes the face of a human from images as well as videos and shows the output in text format on the screen.[
+
 READ AND SHOW VIDEO STREAM , AND THEN CAPTURE IMAGES .
 DETECT THE FACES AND SHOW BOUNDING BOX .
 FLATTEN THE LARGEST FACE IMAGE AND SAVE IN A NUMPY ARRAY
